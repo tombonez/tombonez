@@ -1,6 +1,6 @@
 # hello, world 👋🏻
 
-```
+```json
 Tom Taylor {
   "job":      ["Director", "Developer"],
   "company":  ["Twisted Digital", "wearehel"],
